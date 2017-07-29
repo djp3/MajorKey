@@ -1180,15 +1180,6 @@
             "duration": 0
         },
         {
-            "firstName": "Paul",
-            "lastName": "Bradford",
-            "department": "Career Development And Calling",
-            "title": "Director Of Career Development And Calling ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Randy",
             "lastName": "Jones",
             "department": "Campus Planning",
@@ -1729,15 +1720,6 @@
             "duration": 0
         },
         {
-            "firstName": "Jennifer",
-            "lastName": "Cooper",
-            "department": "Career Development And Calling",
-            "title": "Interim Career Counselor ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Bridget",
             "lastName": "Quanstrom",
             "department": "Biology",
@@ -2138,15 +2120,6 @@
             "lastName": "Harris",
             "department": "Telecommunications",
             "title": "Telecommunications ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Jennie",
-            "lastName": "Wood",
-            "department": "Career Development And Calling",
-            "title": "Career Counselor ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -2881,15 +2854,6 @@
             "duration": 0
         },
         {
-            "firstName": "Julissa",
-            "lastName": "Delgado",
-            "department": "Career Development And Calling",
-            "title": "Student Employment And Office Management ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Stu",
             "lastName": "Cleek",
             "department": "Residence Life",
@@ -3336,15 +3300,6 @@
             "lastName": "Banez",
             "department": "College Software",
             "title": "Director Of College Software ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Lori Ann",
-            "lastName": "Banez",
-            "department": "Career Development And Calling",
-            "title": "Employer Relations Specialist ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -4398,6 +4353,60 @@
             "department": "Off Campus Programs",
             "title": "Jerusalem Sem Prog Assistant ",
             "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Paul",
+            "lastName": "Bradford",
+            "department": "Career Development And Calling",
+            "title": "Director Of Career Development And Calling, Staff",
+            "source": "http://www.westmont.edu/_offices/olp/AboutourStaff.html",
+            "image": "http://www.westmont.edu/_offices/olp/images/paul-bradford.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Julissa",
+            "lastName": "Delgado",
+            "department": "Career Development And Calling",
+            "title": "Student Employment And Office Coordinator, Staff",
+            "source": "http://www.westmont.edu/_offices/olp/AboutourStaff.html",
+            "image": "http://www.westmont.edu/_offices/olp/images/clip_image002_006.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Lori Ann",
+            "lastName": "Banez",
+            "department": "Career Development And Calling",
+            "title": "Employer Relations Specialist, Staff",
+            "source": "http://www.westmont.edu/_offices/olp/AboutourStaff.html",
+            "image": "http://www.westmont.edu/_offices/olp/images/LoriAnnBanez_003.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Cassie",
+            "lastName": "Wicoff",
+            "department": "Career Development And Calling",
+            "title": "Career Counselor, Staff",
+            "source": "http://www.westmont.edu/_offices/olp/AboutourStaff.html",
+            "image": "http://www.westmont.edu/_offices/olp/images/cassiestaffphoto.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Jennie",
+            "lastName": "Wood",
+            "department": "Career Development And Calling",
+            "title": "Part-Time Instructor, Staff",
+            "source": "http://www.westmont.edu/_offices/olp/AboutourStaff.html",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Elisabeth",
+            "lastName": "Gonella",
+            "department": "Counseling Center; Career Development And Calling",
+            "title": "Marriage and Family Therapist; Interim Career Counselor, Staff",
+            "source": "http://www.westmont.edu/_offices/olp/AboutourStaff.html",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
         }
