@@ -1,14 +1,6 @@
+
 {
     "faculty": [
-        {
-            "firstName": "Wayne",
-            "lastName": "Iba",
-            "department": "Computer Science",
-            "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
-            "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
-            "duration": 20
-        },
         {
             "firstName": "Donald",
             "lastName": "Patterson",
@@ -1486,15 +1478,6 @@
             "duration": 0
         },
         {
-            "firstName": "Kati",
-            "lastName": "Buehler",
-            "department": "Gift Planning",
-            "title": "Senior Director Of Gift Planning ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Doug",
             "lastName": "Jones",
             "department": "Finance",
@@ -1612,15 +1595,6 @@
             "duration": 0
         },
         {
-            "firstName": "Alex",
-            "lastName": "Nizet",
-            "department": "Major Gifts",
-            "title": "Senior Development Director ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Adrienne",
             "lastName": "Hicks",
             "department": "Disability Services",
@@ -1733,15 +1707,6 @@
             "lastName": "Larson",
             "department": "Business Office",
             "title": "Controller ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Annette",
-            "lastName": "Richards",
-            "department": "Major Gifts",
-            "title": "Regional Director Of Development ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -2008,15 +1973,6 @@
             "duration": 0
         },
         {
-            "firstName": "Mona",
-            "lastName": "Motte",
-            "department": "Gift Planning",
-            "title": "Director Of Gift Planning ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "John",
             "lastName": "Draper",
             "department": "Risk Management",
@@ -2161,15 +2117,6 @@
             "duration": 0
         },
         {
-            "firstName": "Neil",
-            "lastName": "Di Maggio",
-            "department": "Research",
-            "title": "Research & Prospect Management ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Christen",
             "lastName": "Foell",
             "department": "Institute For The Liberal Arts",
@@ -2296,15 +2243,6 @@
             "duration": 0
         },
         {
-            "firstName": "Zak",
-            "lastName": "Landrum",
-            "department": "Advancement Services",
-            "title": "Senior Director Of Advancement Services ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Javier",
             "lastName": "Guzman",
             "department": "Phy Plant--trades",
@@ -2363,6 +2301,1473 @@
             "lastName": "Roy",
             "department": "Music",
             "title": "Instructor Of Music ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Steve",
+            "lastName": "Baker",
+            "department": "Office of College Advancement",
+            "title": "Associate VP For Advancement",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Baker%2C%20Steve_0.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Alex",
+            "lastName": "Nizet",
+            "department": "Office of College Advancement",
+            "title": "Senior Director of Development ",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Nizet%2C%20Alex_1.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Annette",
+            "lastName": "Richards",
+            "department": "Office of College Advancement",
+            "title": "Regional Director Of Development, SoCal ",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Richard%2C%20Annette.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Janet",
+            "lastName": "Sawlaw",
+            "department": "Office of College Advancement",
+            "title": "College Advancement Assistant",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kati",
+            "lastName": "Buehler",
+            "department": "Office of College Advancement",
+            "title": "Senior Director Of Gift Planning ",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Buehler%2C%20Kati.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Mona",
+            "lastName": "Motte-Wilds",
+            "department": "Office of College Advancement",
+            "title": "Director Of Gift Planning ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Angela",
+            "lastName": "Lowe",
+            "department": "Office of College Advancement",
+            "title": "Gift Planning Assistant",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Angela%20Lowe.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Patrick",
+            "lastName": "Morrow",
+            "department": "Office of College Advancement",
+            "title": "Senior Director of Annual Giving",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Tawny",
+            "lastName": "Klipper",
+            "department": "Office of College Advancement",
+            "title": "Assistant Director of Annual Giving",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Susie",
+            "lastName": "Willett",
+            "department": "Office of College Advancement",
+            "title": "Director Of Donor Relations ",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Willett%2C%20Susie_15A.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Zak",
+            "lastName": "Landrum",
+            "department": "Office of College Advancement",
+            "title": "Senior Director Of Advancement Services ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Neil",
+            "lastName": "Di Maggio",
+            "department": "Office of College Advancement",
+            "title": "Director of Research",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Di%20Maggio%2C%20Neil.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Julie",
+            "lastName": "Rubio",
+            "department": "Office of College Advancement",
+            "title": "Advancement Services Assistant",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Rubio%2C%20Julie_15.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Kim",
+            "lastName": "Shifley",
+            "department": "Office of College Advancement",
+            "title": "Senior Gift Processing Specialist",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Shifley%2C%20Kim.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Jeff",
+            "lastName": "Sieck",
+            "department": "Office of College Advancement",
+            "title": "Advancement Services Specialist",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Sieck%2C%20Jeff.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Mary Pat",
+            "lastName": "Whitney",
+            "department": "Office of College Advancement",
+            "title": "Director of Public and College Advancement Events",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Whitney%2C%20Mary%20Pat_15.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Karen",
+            "lastName": "Andrews",
+            "department": "Westmont In San Francisco",
+            "title": "Associate Director For Curriculum And Academic Development",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Mark",
+            "lastName": "Basham",
+            "department": "Athletics",
+            "title": "Head Coach, Men's Tennis ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/athletics/wp-content/images/mens_tennis/current/Basham_Mark_9874.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Jonathan",
+            "lastName": "Palmquist",
+            "department": "Music",
+            "title": "Instructor Of Music ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Tito",
+            "lastName": "Paredes-Alfaro",
+            "department": "Provost",
+            "title": "Instructor ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Kirsten",
+            "lastName": "Moore",
+            "department": "Athletics Administration",
+            "title": "Associate Athletics Director & Head Coach Women'sBasketball ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/athletics/wp-content/images/womens_basketball/current/Moore_Kirsten_2015-16_6873.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Amanda",
+            "lastName": "Elliott",
+            "department": "Sound And Light",
+            "title": "Sound & Light - Temp ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Scott",
+            "lastName": "Craig",
+            "department": "College Communications",
+            "title": "Manager Of Media Relations ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Cindy",
+            "lastName": "Courtney",
+            "department": "Kinesiology",
+            "title": "Instructor Of Kinesiology ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Faith",
+            "lastName": "Hakimian",
+            "department": "Phy Plant--College Vehicle Pool",
+            "title": "Pt Fleet Transportation Coordinator ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Paul",
+            "lastName": "Mori",
+            "department": "Music",
+            "title": "Professor Of Music",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Nichole",
+            "lastName": "Dechaine",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Egle",
+            "lastName": "Januleviciute",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Gerrie",
+            "lastName": "Fausett",
+            "department": "Education And Liberal Studies",
+            "title": "Instructor Of Education ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Ben",
+            "lastName": "Johnson",
+            "department": "College Communications",
+            "title": "Graphic Designer ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Rob",
+            "lastName": "Goodrow",
+            "department": "Athletics Administration",
+            "title": "Assistant Basketball Coach - Temp ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/athletics/wp-content/images/mens_basketball/current/Goodrow_Rob_2015-16_6396.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Danielle",
+            "lastName": "Rogers",
+            "department": "Provost",
+            "title": "Pt Assistant To The Provost's Office ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Rodelio",
+            "lastName": "Callos",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Piano",
+            "lastName": "Paredes",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Patti",
+            "lastName": "Cook",
+            "department": "Athletics Administration",
+            "title": "Head Coach Women's Volleyball ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2013/09/cook-505x757.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Aaron",
+            "lastName": "Sizer",
+            "department": "Institute For The Liberal Arts",
+            "title": "Assistant Director Of The Gaede Institute ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Ruby Jeanne",
+            "lastName": "Shelton",
+            "department": "Social Sciences",
+            "title": "Social Sciences ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Cory",
+            "lastName": "Steffen",
+            "department": "Art",
+            "title": "Instructor Of Art ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Heather",
+            "lastName": "Levin",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Teri",
+            "lastName": "Bradford",
+            "department": "Alumni And Parent Relations",
+            "title": "Senior Director Of Alumni And Parent Relations ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Ginny",
+            "lastName": "Murray",
+            "department": "Physical Plant",
+            "title": "Office Assistant - Physical Plant",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Emily",
+            "lastName": "Sommermann",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Jane",
+            "lastName": "Wilson",
+            "department": "Education And Liberal Studies",
+            "title": "Associate Professor Of Education ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Joan",
+            "lastName": "Wimberly",
+            "department": "Public Events",
+            "title": "Director Of Public Events ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Barb",
+            "lastName": "Pointer",
+            "department": "Off Campus Programs",
+            "title": "Assistant Director Of Global Education ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Sharon",
+            "lastName": "Willis",
+            "department": "Health Center",
+            "title": "Nurse Practitioner ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Wendy",
+            "lastName": "Ludwick",
+            "department": "K",
+            "title": "Public Events ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Judy",
+            "lastName": "Williams",
+            "department": "Kinesiology",
+            "title": "Pt Kinesiology Secretary ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Lorinda",
+            "lastName": "Dry",
+            "department": "Alumni And Parent Relations",
+            "title": "Assistant Director Alumni & Parent Relations ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Kay",
+            "lastName": "Howell",
+            "department": "Mexico",
+            "title": "Mexico Semester Administrator ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Julian",
+            "lastName": "Saavedra",
+            "department": "Phy Plant--trades",
+            "title": "Facility Maintenance Worker 2 ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "David",
+            "lastName": "Hernandez",
+            "department": "Health Center",
+            "title": "Director Of Health Services ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Esther",
+            "lastName": "Gilbert",
+            "department": "Business Office",
+            "title": "Accountant & Payroll Manager ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "John",
+            "lastName": "Wilder",
+            "department": "English",
+            "title": "Professor Of English - Pt ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Karen",
+            "lastName": "Cornelius",
+            "department": "Admissions",
+            "title": "Application Coordinator ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Olympia",
+            "lastName": "Hugo",
+            "department": "K",
+            "title": "Admissions ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Chris",
+            "lastName": "Call",
+            "department": "Administration",
+            "title": "Vp For Admin, Research, Planning & Implementation ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Tiffany",
+            "lastName": "Lobner",
+            "department": "Office Of Student Life",
+            "title": "Administrative Assistant To The Vp For Sl ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Melinda",
+            "lastName": "Harriman",
+            "department": "Conferences",
+            "title": "Director Of Conference Services & Campus Scheduling ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Toya",
+            "lastName": "Cooper",
+            "department": "Legal Counsel",
+            "title": "Legal Counsel ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Ron",
+            "lastName": "Rusk",
+            "department": "Physcial Plant",
+            "title": "Phy Plant--custodial ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Audra",
+            "lastName": "Pearce",
+            "department": "Advancement Services",
+            "title": "Gift Processing Specialist ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Bill",
+            "lastName": "Groeneveld",
+            "department": "Procurement",
+            "title": "Procurement/aux Srvcs ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Vitaliy",
+            "lastName": "Skovorodko",
+            "department": "Phy Plant--automotive",
+            "title": "Facility Maintenance Worker 3/auto Mechanic ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Anna",
+            "lastName": "Jordan",
+            "department": "English",
+            "title": "Instructor Of English ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Vinogradski",
+            "department": "Phy Plant--trades",
+            "title": "Facility Maintenance Worker",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Viktor",
+            "lastName": "Markov",
+            "department": "Phy Plant--trades",
+            "title": "Facility Maintenance Worker",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Joel",
+            "lastName": "Patterson",
+            "department": "Campus Pastors Office",
+            "title": "Director Of Music And Worship ",
+            "source": "",
+            "image": "http://www.westmont.edu/_offices/campus_pastor/uploads/2006/images/patterson_joel.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Stu",
+            "lastName": "Cleek",
+            "department": "Residence Life",
+            "title": "Associate Dean For Residence Life ",
+            "source": "",
+            "image": "http://www.westmont.edu/_offices/residence_life/images/Stu_Cleek_144x216.jpg",
+            "duration": 0
+        },
+
+        {
+            "firstName": "Ben",
+            "lastName": "Patterson",
+            "department": "Campus Pastors Office",
+            "title": "Campus Pastor ",
+            "source": "",
+            "image": "http://www.westmont.edu/_offices/campus_pastor/images/MK4_5729_000.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Debbie",
+            "lastName": "Price",
+            "department": "Business Office",
+            "title": "Senior Accountant ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Sharon",
+            "lastName": "Lien",
+            "department": "Financial Aid",
+            "title": "Financial Aid Assistant ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Rachel",
+            "lastName": "Winslow",
+            "department": "Off Campus Programs",
+            "title": "Director Of Center Social Entrep ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Ryan",
+            "lastName": "Ethington",
+            "department": "Art",
+            "title": "Instructor Of Art ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Jason",
+            "lastName": "Cha",
+            "department": "Intercultural Programs",
+            "title": "Director Of Intercultural Programs ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Emil",
+            "lastName": "Cristescu",
+            "department": "Music",
+            "title": "Instructor Of Music ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Laurence",
+            "lastName": "Young",
+            "department": "Music",
+            "title": "Instructor Of Music ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Ileathern",
+            "lastName": "McLeod",
+            "department": "Music",
+            "title": "Instructor Of Music ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Nancy",
+            "lastName": "Everest",
+            "department": "College Software",
+            "title": "Applications And Systems Developer/analyst ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Danielle",
+            "lastName": "Borrajo",
+            "department": "College Store",
+            "title": "Bookstore Temp ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "William",
+            "lastName": "Farrell",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Keith",
+            "lastName": "Erickson",
+            "department": "Music",
+            "title": "Music Department Coordinator ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Reed",
+            "lastName": "Sheard",
+            "department": "Office Of College Advancement",
+            "title": "Vice President For Advancement & Information Technology ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Raymond",
+            "lastName": "Valencia",
+            "department": "Reprographics",
+            "title": "Document Services Coordinator - Repro ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Maria",
+            "lastName": "Rocha",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Judy",
+            "lastName": "Larson",
+            "department": "Museum Of Art",
+            "title": "Director Of Westmont Ridley Tree Museum ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Guadalupe",
+            "lastName": "Navarro",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Anna",
+            "lastName": "Fletcher",
+            "department": "Residence Life",
+            "title": "Resident Director ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Gustavo",
+            "lastName": "Hidalgo",
+            "department": "Phy Plant--custodial",
+            "title": "Utility Crew-lead ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Melanie",
+            "lastName": "Rogers",
+            "department": "Records",
+            "title": "Records ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Helen",
+            "lastName": "Park",
+            "department": "President's Office",
+            "title": "President's Office ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Victoria",
+            "lastName": "Leon",
+            "department": "Philosophy",
+            "title": "Secretary - Philosophy & Religious Studies ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Joshua",
+            "lastName": "Priester",
+            "department": "Athletics Administration",
+            "title": "Asst Coach-track And Field/cross Country",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Silvio",
+            "lastName": "Vazquez",
+            "department": "Admissions",
+            "title": "Dean Of Admissions ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Craig",
+            "lastName": "Thomas",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Jenny",
+            "lastName": "Martinez",
+            "department": "Off Campus Programs",
+            "title": "Jerusalem Sem Prog Assistant ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Mary",
+            "lastName": "Dill",
+            "department": "Business Office",
+            "title": "Payroll Assistant ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Katherine",
+            "lastName": "Christensen",
+            "department": "Museum Of Art",
+            "title": "Museum Education Coordinator",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Ellie",
+            "lastName": "Johnson",
+            "department": "Athletics",
+            "title": "Head Coach, Women's Tennis ",
+            "source": "",
+            "image": "http://athletics.westmont.edu/images/2017/3/1/D1X_4588.JPG?width=300",
+            "duration": 0
+        },
+        {
+            "firstName": "Robert",
+            "lastName": "Ruiz",
+            "department": "Athletics Administration",
+            "title": "Head Coach Of Baseball And Associate Athletic Director ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/athletics/wp-content/images/baseball/current/Ruiz_Robert_2016_6492.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Kelsey",
+            "lastName": "Palmer",
+            "department": "Westmont In San Francisco",
+            "title": "Adjunct Professor Of Urban Studies ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Alexis",
+            "lastName": "Anderson",
+            "department": "Kinesiology",
+            "title": "Instructor Of Kinesiology ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Tony",
+            "lastName": "Cougoule",
+            "department": "Athletics Administration",
+            "title": "Assistant Baseball Coach & Game Manager ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Andrew",
+            "lastName": "Radford",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Michelle",
+            "lastName": "Starrh",
+            "department": "Music",
+            "title": "Music Department Assistant ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Beth",
+            "lastName": "Lee",
+            "department": "English",
+            "title": "Instructor Of English ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Paige",
+            "lastName": "Tautz",
+            "department": "Theatre Arts",
+            "title": "Instructor Of Theatre Arts ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Tatiana",
+            "lastName": "Nazarenko",
+            "department": "K",
+            "title": "Provost ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Matt",
+            "lastName": "Browne",
+            "department": "Admissions",
+            "title": "Admissions Counselor ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Paige",
+            "lastName": "Clenney",
+            "department": "Intercultural Programs",
+            "title": "Campus Life And Intercultural Program Assistant Temp ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Shannon",
+            "lastName": "Balram",
+            "department": "Residence Life",
+            "title": "Assistant Director Of Residence Life ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Kailie",
+            "lastName": "Barnes",
+            "department": "Westmont In San Francisco",
+            "title": "Urban Initiative",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Josiah",
+            "lastName": "Taylor",
+            "department": "Athletic Trainer",
+            "title": "Rehabilitation Trainer",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Sean",
+            "lastName": "Smith",
+            "department": "Financial Aid",
+            "title": "Director Of Financial Aid ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Marcia",
+            "lastName": "Vogler",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "John",
+            "lastName": "Sant' Ambrogio",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Zac",
+            "lastName": "Smith",
+            "department": "College Communications",
+            "title": "Web Content Editor ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Joel",
+            "lastName": "Banez",
+            "department": "College Software",
+            "title": "Director Of College Software ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Evans",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Sophie",
+            "lastName": "Judd",
+            "department": "Admissions",
+            "title": "Admissions ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Katie",
+            "lastName": "Mukai",
+            "department": "Psychology",
+            "title": "Psychology Lab Coordinator ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Morgan",
+            "lastName": "McCurry",
+            "department": "K",
+            "title": "Annual Giving ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Jim",
+            "lastName": "Wright",
+            "department": "Off Campus Programs",
+            "title": "Istanbul Semester Faculty ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Kai",
+            "lastName": "Sheets",
+            "department": "Information Technology",
+            "title": "It User Services Specialist ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Nikki",
+            "lastName": "Dressler",
+            "department": "Chemistry",
+            "title": "Instructor Of Chemistry ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Everest",
+            "department": "Chemistry",
+            "title": "Professor Of Chemistry ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Kaci",
+            "lastName": "Mexico",
+            "department": "Athletics Administration",
+            "title": "Assistant To The Sports Information Director Temp ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Kevin",
+            "lastName": "Marr",
+            "department": "Mailing Services",
+            "title": "Mailing Services",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Sarah",
+            "lastName": "Gowing",
+            "department": "Risk Management",
+            "title": "Institutional Resilience Coordinator Temp ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Kara",
+            "lastName": "Lopez",
+            "department": "Financial Aid",
+            "title": "Assistant Director Of Financial Aid ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Rachel",
+            "lastName": "Rowenhorst",
+            "department": "Admissions",
+            "title": "Admissions Counselor ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Jonathan",
+            "lastName": "Combs",
+            "department": "Athletics Administration",
+            "title": "Assistant Coach - Baseball ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Adae",
+            "lastName": "Rehmke",
+            "department": "Admissions",
+            "title": "Information Systems Assistant",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Shane",
+            "lastName": "Rowan",
+            "department": "Athletics Administration",
+            "title": "Asst Coach-track And Field/cross Country Temp ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Rosangel",
+            "lastName": "Rodriguez",
+            "department": "College Store",
+            "title": "Bookstore Temp ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Martha",
+            "lastName": "Stevens",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Graeme",
+            "lastName": "Petterson",
+            "department": "Phy Plant--shuttle",
+            "title": "Pt Shuttle Driver",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Beth",
+            "lastName": "Vidmar",
+            "department": "Athletic Trainer",
+            "title": "Assistant Athletic Trainer Temp ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Robert",
+            "lastName": "Rockabrand",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Sara",
+            "lastName": "Rockabrand",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Alisa",
+            "lastName": "Unell",
+            "department": "Swim Club",
+            "title": "Lifeguard Temp ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Gary",
+            "lastName": "Moon",
+            "department": "Provost",
+            "title": "Dir Of Martin Inst For Christianity & Culture & Dallas ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Sheri",
+            "lastName": "Noble",
+            "department": "Disability Services",
+            "title": "Coordinator Of Disability Services ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Andrea",
+            "lastName": "Di Maggio",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Selena",
+            "lastName": "English",
+            "department": "Athletics Administration",
+            "title": "Assistant Women's Basketball Coach & Recruitment Coordinator",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "John",
+            "lastName": "Unzueta",
+            "department": "Admissions",
+            "title": "Admissions Counselor ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Anna",
+            "lastName": "Darby",
+            "department": "Records",
+            "title": "Records Systems Specialist ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Kathryn",
+            "lastName": "Mendenhall",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Christina",
+            "lastName": "Sanchez",
+            "department": "Theatre Arts",
+            "title": "Instructor Of Theatre Arts ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Patricia",
+            "lastName": "Noormand",
+            "department": "Art",
+            "title": "Pt Art Department Secretary ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Luis",
+            "lastName": "Lopez",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Andrew",
+            "lastName": "Meyer",
+            "department": "Auxillary Services",
+            "title": "Auxiliary Services Assistant ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Connor",
+            "lastName": "Riva",
+            "department": "Information Technology",
+            "title": "Server, Storage & Virtual Environment Network Administrator ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Sara",
+            "lastName": "Scott",
+            "department": "Psychology",
+            "title": "Psychology Department Secretary",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Lauren",
+            "lastName": "Sende",
+            "department": "Athletics",
+            "title": "Interim Athletics Assistant ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Grace",
+            "lastName": "Spadoro",
+            "department": "Administration",
+            "title": "Pt Admin Asst. To The Vp For Admin & Planning ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Maria",
+            "lastName": "Rivera",
+            "department": "Kinesiology",
+            "title": "Instructor Of Kinesiology ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Karli",
+            "lastName": "Holman",
+            "department": "Mathematics & Computer Science",
+            "title": "Statistics Teaching Assistant",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Anthony",
+            "lastName": "Ybarra",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Guzman",
+            "department": "Student Life",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Lieberman",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Armando",
+            "lastName": "Maldonado",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Zak",
+            "lastName": "Landrum",
+            "department": "Advancement Services",
+            "title": "Senior Director Of Advancement Services ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -3709,15 +5114,6 @@
             "duration": 0
         },
         {
-            "firstName": "Angela",
-            "lastName": "Lowe",
-            "department": "Office Of Student Life",
-            "title": "Part Time Student Life Assistant ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Wilton",
             "lastName": "Quintero",
             "department": "Physical Plant",
@@ -3929,15 +5325,6 @@
             "lastName": "Okahana",
             "department": "Theatre Arts",
             "title": "Visiting Artist ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Mary Pat",
-            "lastName": "Whitney",
-            "department": "Advancement Services",
-            "title": "Advancement Special Events Manager ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -4177,15 +5564,6 @@
             "duration": 0
         },
         {
-            "firstName": "Kim",
-            "lastName": "Shifley",
-            "department": "Alumni And Parent Relations",
-            "title": "Alumni & Parent Relations/annual Giving Assistant ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Stevan",
             "lastName": "Pekovich",
             "department": "Biology",
@@ -4412,4 +5790,5 @@
         }
     ]
 }
+
 
